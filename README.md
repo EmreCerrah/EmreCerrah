@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">I’m interested in software development, Game design, Front-end web development also I want to learn python.</h3>
+<h3 align="center">I’m interested in software development, Game design, backend development.</h3>
 
 - 🌱 I’m currently learning **Java and JavaScript.**
 
-- 📫 How to reach me **kuasar34@gmail.com**
+- 📫 How to reach me **v.emrecerrah@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
