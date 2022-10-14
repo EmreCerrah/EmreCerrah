@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">I’m interested in software development, backend development.</h3>
 
-- 🌱 I’m currently learning **JavaScript.**
+- 🌱 I’m currently learning **Go.**
 
 - 📫 How to reach me **v.emrecerrah@gmail.com**
 
